@@ -16,6 +16,10 @@ Takes objective, pulls an item from task queue and moves it to execution agent w
 
 [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 
+A LLM (such as ChatGPT) accesses HuggingFace community to look AI models to complete the given task. 
+
+It can read multi modalities by outsourcing tasks like image recognition to the specific image model. 
+
 []()
 []()
 []()
