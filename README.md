@@ -10,9 +10,9 @@ An agent wants to throw a Valentine’s Day party. The agents autonomously sprea
 
 [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 
-Task-driven autonomous agent, with vector database and Langchain.
+Task-driven autonomous agent, with vector database and Langchain. BabyGPT includes: Execution, creation and prioritization
 
-Takes objective, pulls an item from task queue and moves it to execution agent with access to memory. Apart includes task creation and task prioritization agents.
+Takes objective, pulls an item from task queue and moves it to execution agent with access to memory. 
 
 [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 
