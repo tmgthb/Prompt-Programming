@@ -25,7 +25,7 @@ Optimizing Human-ChatGPT Interactions](https://arxiv.org/abs/2304.03540)
 
 ChatPipe - Iterative, data preparation program with ChatGPT using 1. Operation Recommendation, 2.   Program generation, 3. Version management. 
 
-Recommends next data preparation opration. Easily roll-back to previous program for 
+Recommends next data preparation opration. Easily roll-back to previous program for version control.
 
 []()
 []()
