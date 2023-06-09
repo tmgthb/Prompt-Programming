@@ -16,6 +16,12 @@ Prompt programming techniques enable using Large Language Models (LLMs) to build
 - Builds multi-agent simulation environment to generate dataset of using many real world apis. 
 - Small models can achieve comparable performance to larger models on tool usage.
 
+![image](https://github.com/tmgthb/Prompt-Programming/assets/46755670/816afe6d-adf9-49d0-b889-3b552c5d3e48)
+![image](https://github.com/tmgthb/Prompt-Programming/assets/46755670/56e324f3-cf9b-44d1-9329-d5e9e587eff1)
+
+
+
+
 ## 5. June 2023
 [SELFEVOLVE: A Code Evolution Framework via Large Language Models](https://arxiv.org/pdf/2306.02907.pdf)
 
