@@ -2,6 +2,9 @@
 
 Curated list of Prompt programming techniques.
 
+[ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases](https://arxiv.org/pdf/2306.05301.pdf)
+
+
 [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
 Enable believable human behavior: observation, planning, and reflection.
