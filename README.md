@@ -1,16 +1,8 @@
-# Prompt Programming Techniques
-
-Prompt programming techniques enable using Large Language Models (LLMs) to build Autonomous agents through:
-- use of LLMs chains,
-- use of LLM workflows with or without external memory / tools / APIs.
-
-
-
-
-
 # PROMPT PROGRAMMING TECHNIQUES
 
-Part of the papers are not specifically around Prompt engineering, yet are included due to interesting conceptually from Prompt programming perspective.
+Part of the papers are not specifically around Prompt engineering, yet are included due to interesting conceptually from Prompt programming perspective. Prompt programming techniques enable using Large Language Models (LLMs) to build Autonomous agents through:
+- use of LLMs chains,
+- use of LLM workflows with or without external memory / tools / APIs.
 
 ---
 
