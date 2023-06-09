@@ -6,7 +6,7 @@ Prompt programming techniques enable using Large Language Models (LLMs) to build
 
 
 
-# Article / Technique (Year / Name / Description):
+# PROMPT PROGRAMMING TECHNIQUES
 
 ## 8. June 2023
 [ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases](https://arxiv.org/pdf/2306.05301.pdf)
