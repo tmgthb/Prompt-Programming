@@ -1,13 +1,17 @@
-# Prompt-Programming
+# Prompt Programming Techniques
+Prompt programming techniques enable using Large Language Models (LLMs) to build Autonomous agents through:
+- use of LLMs chains,
+- use of LLM workflows with or without external memory / tools / APIs.
 
-Curated list of Prompt programming techniques.
 
+Article / Technique (Year / Name / Description):
+
+# 8. June 2023
 [ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases](https://arxiv.org/pdf/2306.05301.pdf)
 
 Builds multi-agent simulation environment to generate dataset of using many real world apis. Small models can achieve comparable performance to larger models on tool usage.
 
-
-
+# 5. June 2023
 [SELFEVOLVE: A Code Evolution Framework via Large Language Models](https://arxiv.org/pdf/2306.02907.pdf)
 
 Generates intermediate code based on input prompt. Use LLM to act as expert programmer to debug the generated code by receiving errors from Python interpreter.
