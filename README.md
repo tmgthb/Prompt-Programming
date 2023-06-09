@@ -4,8 +4,7 @@ Curated list of Prompt programming techniques.
 
 [ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases](https://arxiv.org/pdf/2306.05301.pdf)
 
-Builds multi-agent simulation environment to generate dataset of using many real world apis.
-
+Builds multi-agent simulation environment to generate dataset of using many real world apis. Small models can achieve comparable performance to larger models on tool usage.
 
 [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
