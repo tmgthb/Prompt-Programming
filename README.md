@@ -6,6 +6,12 @@ Curated list of Prompt programming techniques.
 
 Builds multi-agent simulation environment to generate dataset of using many real world apis. Small models can achieve comparable performance to larger models on tool usage.
 
+
+
+[SELFEVOLVE: A Code Evolution Framework via Large Language Models](https://arxiv.org/pdf/2306.02907.pdf)
+
+Generates intermediate code based on input prompt. Use LLM to act as expert programmer to debug the generated code by receiving errors from Python interpreter.
+
 [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
 
 Enable believable human behavior: observation, planning, and reflection.
