@@ -39,6 +39,11 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 - Auto-GPTs outperforms supervised state-of-the-art Imitiation Learning (IL) models with GPT4 in WebShop- and ALFWorld-benchmarks in unknown external environments.
 - Additional opinions algorithm improves performance, which takes into account additional opinions from external expert models.
 
+## 17th May 2023
+[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+
+- Tree of Thoughts (ToT)-technique makes decisions using multiple different reasoning paths, self-evaluating choices to decide next action with ability to look back/forward for global decisions.
+
 ## 11th April 2023
 
 [Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
@@ -60,6 +65,14 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 
 - Enable believable human behavior: observation, planning, and reflection.
 - An agent wants to throw a Valentine’s Day party. The agents autonomously spread invitations, make new acquaintances, ask each other out on dates to the party, and coordinate to show up for the party together at the right time. 
+
+---
+
+## 31 March 2023
+[CAMEL: Communicative Agents for "Mind" Exploration of Large Scale Language Model Society](https://arxiv.org/abs/2303.17760)
+
+- CAMEL attempts to facilitate autonomous cooperation among communicative agents through role-playing framework.
+- The approach manages complete tasks with minimal human input.
 
 ---
 
