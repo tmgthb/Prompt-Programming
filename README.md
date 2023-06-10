@@ -39,6 +39,12 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 - Auto-GPTs outperforms supervised state-of-the-art Imitiation Learning (IL) models with GPT4 in WebShop- and ALFWorld-benchmarks in unknown external environments.
 - Additional opinions algorithm improves performance, which takes into account additional opinions from external expert models.
 
+## 11th April 2023
+
+[Teaching Large Language Models to Self-Debug](https://arxiv.org/abs/2304.05128)
+
+- The model generates new code together with code explanation. The code is then executed and this executed code is sent back as feedback together with the code explanation. This feedback
+
 ---
 
 ## 7th of April 2023
@@ -66,7 +72,7 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 ---
 
 ## 29th of March 2023
-[askMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs](https://arxiv.org/abs/2303.16434)
+[TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs](https://arxiv.org/abs/2303.16434)
 
 - Multimodal conversational foundation model (MCFM). MCFM generates a textual solution outline, then API selector chooses most relevant API from collection of APIs (with API name, parameter list, description, usage example and example when combining it with another API). 
 - MCFM generates action code using recommended API and the API call is executed. Finally, output is provided back to developer.
@@ -85,6 +91,7 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)
 
 - Reflexion agents reflect on task feedback, use it from memory to make better decisions and new attempts.
+
 
 ---
 
