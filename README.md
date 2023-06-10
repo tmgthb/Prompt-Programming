@@ -29,6 +29,16 @@ Not all papers are specifically written about Prompt engineering, yet specific c
 
 - Human AI collaborative intelligence methodology & technical practices, where the idea is not to have "full Auto-GPT" from user input to direct resolution by LLM, but rather human reviews steps between.
 - Useer inputs objective, LLM asks clarification. Use then  User adds clarifications and LLM constructs AI chain for human to review. Finally LLM executes the AI chain with user acceptabnce tests.
+
+---
+
+## 3th June 2023
+[Auto-GPT for Online Decision Making: Benchmarks and
+Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
+
+- Auto-GPTs outperforms supervised state-of-the-art Imitiation Learning (IL) models with GPT4 in WebShop- and ALFWorld-benchmarks in unknown external environments.
+- Additional opinions algorithm improves performance, which takes into account additional opinions from external expert models.
+
 ---
 
 #7th of April 2023
@@ -55,6 +65,14 @@ Not all papers are specifically written about Prompt engineering, yet specific c
 
 ---
 
+## 29th of March 2023
+[askMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs](https://arxiv.org/abs/2303.16434)
+
+- Multimodal conversational foundation model (MCFM). MCFM generates a textual solution outline, then API selector chooses most relevant API from collection of APIs (with API name, parameter list, description, usage example and example when combining it with another API). 
+- MCFM generates action code using recommended API and the API call is executed. Finally, output is provided back to developer.
+
+---
+
 ## 28th March 2023 
 [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 
@@ -64,3 +82,7 @@ Not all papers are specifically written about Prompt engineering, yet specific c
 ---
 
 
+[]()
+---
+[]()
+---
