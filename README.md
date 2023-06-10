@@ -69,6 +69,11 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 - A LLM (such as ChatGPT) accesses HuggingFace community to look AI models to complete the given task. 
 - It can read multi modalities by outsourcing tasks like image recognition to the specific image model. 
 
+[DERA: Enhancing Large Language Model Completions with Dialog-Enabled Resolving Agents](https://arxiv.org/abs/2303.17071)
+
+- Dialog-eEabled Resolving Agents (DERA) uses two roles: Researcher and Decider to perform discussion between these two agents.
+- Researcher role processes information and Decider role uses judgement.
+
 ---
 
 ## 29th of March 2023
