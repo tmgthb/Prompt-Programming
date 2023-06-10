@@ -36,17 +36,19 @@ Not all papers are specifically written about Prompt engineering, yet specific c
 - Enable believable human behavior: observation, planning, and reflection.
 - An agent wants to throw a Valentine’s Day party. The agents autonomously spread invitations, make new acquaintances, ask each other out on dates to the party, and coordinate to show up for the party together at the right time. 
 
-## 28th March 2023 
-[Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
-
-- Task-driven autonomous agent, with vector database and Langchain. BabyGPT includes: Execution, creation and prioritization
-- Takes objective, pulls an item from task queue and moves it to execution agent with access to memory. 
 
 ## 30th of March 2023
 [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580)
 
 - A LLM (such as ChatGPT) accesses HuggingFace community to look AI models to complete the given task. 
 - It can read multi modalities by outsourcing tasks like image recognition to the specific image model. 
+
+## 28th March 2023 
+[Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
+
+- Task-driven autonomous agent, with vector database and Langchain. BabyGPT includes: Execution, creation and prioritization
+- Takes objective, pulls an item from task queue and moves it to execution agent with access to memory. 
+
 
 
 
