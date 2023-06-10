@@ -39,10 +39,22 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 - Auto-GPTs outperforms supervised state-of-the-art Imitiation Learning (IL) models with GPT4 in WebShop- and ALFWorld-benchmarks in unknown external environments.
 - Additional opinions algorithm improves performance, which takes into account additional opinions from external expert models.
 
+---
+
+## 24th May 2023
+[Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334)
+
+- Gorilla is a retrieve-aware finetuned LLaMA-7B model for API calls using self-instruct to generate Instruction-API pairs. 
+
+
+---
+
 ## 17th May 2023
 [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
 
 - Tree of Thoughts (ToT)-technique makes decisions using multiple different reasoning paths, self-evaluating choices to decide next action with ability to look back/forward for global decisions.
+
+---
 
 ## 11th April 2023
 
