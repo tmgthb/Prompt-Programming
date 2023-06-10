@@ -88,8 +88,10 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 
 ---
 
+
+
 # PROMPT ENGINEERING
-Despite the intent here is not to replicate Prompt engineering guidelines, it is good to keep in mind few of the previous papers around "preliminary research" around Prompt programming, which achieve "quick wins" and therefore act as useful information on helping to perform reasoning with LLMs.
+Prompt engineering techniques are here considered "traditional" in sense of helping to to outperform vanilla LLM prompt, as their code idea. These Prompt engineering techniques are useful and popular. Therefore it is good to be familiar with them, too. This list is "an additional reading" to Prompt Programming, rather than a complete list of Prompt engineering.
 
 ---
 ## 6th October 2022
