@@ -81,8 +81,34 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 
 ---
 
+## 20th March 2023
+[Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)
 
-[]()
+- Reflexion agents reflect on task feedback, use it from memory to make better decisions and new attempts.
+
 ---
+
+# PROMPT ENGINEERING
+Despite the intent here is not to replicate Prompt engineering guidelines, it is good to keep in mind few of the previous papers around "preliminary research" around Prompt programming, which achieve "quick wins" and therefore act as useful information on helping to perform reasoning with LLMs.
+
+---
+## 6th October 2022
+[ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629)
+
+- Enhancing Chain of Thought through task solving with one/two-examples ofg "Action:"-information together with "Thought:"-information
+
+## 21 March 2022
+[Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
+
+- Self-cconsistency by sampling diverse set of reasoning paths.
+
+---
+
+## 28th January 2022
+[Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+
+- Chain of THought (CoT) examples help perform complex reasoning. 
+
+
 []()
 ---
