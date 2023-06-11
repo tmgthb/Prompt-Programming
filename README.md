@@ -77,6 +77,7 @@ Additional Opinions](https://arxiv.org/pdf/2306.02224.pdf)
 
 - Enable believable human behavior: observation, planning, and reflection.
 - An agent wants to throw a Valentine’s Day party. The agents autonomously spread invitations, make new acquaintances, ask each other out on dates to the party, and coordinate to show up for the party together at the right time. 
+- [GPTeam](https://github.com/101dotxyz/GPTeam) is inspired by this approach.
 
 ---
 
